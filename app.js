@@ -31,4 +31,4 @@ window.addEventListener('load', () => {
     }
 });
 
-// Developed By SeyedMohammadMahdi Kiaei
+// Developed By Mohammad Kiaei
